@@ -21,7 +21,6 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- **Bonus**: Use the local JSON data to dynamically populate the content
 
 ### Screenshot
 
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/zainali954/NFT-preview-card-component](https://github.com/zainali954/NFT-preview-card-component)
-- Live Site URL: [https://zainali954.github.io/NFT-preview-card-component/](https://zainali954.github.io/NFT-preview-card-component/)
+- Solution URL: [https://github.com/zainali954/Order-summary-card](https://github.com/zainali954/Order-summary-card)
+- Live Site URL: [https://zainali954.github.io/Order-summary-card/](https://zainali954.github.io/Order-summary-card/)
 
 ## My process
 
@@ -46,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [zainali954.github.io](https://zainali954.github.io/NFT-preview-card-component/)
+- Website - [zainali954.github.io](https://zainali954.github.io/Order-summary-card/)
 - Frontend Mentor - [@zainali954](https://www.frontendmentor.io/profile/zainali954)
